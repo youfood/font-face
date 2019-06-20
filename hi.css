@@ -1,0 +1,16 @@
+p {
+   font-family: h74;
+   font-size: 50px;
+   margin: 20px 50%;
+}
+
+
+@font-face {
+   font-family: 'h74';
+   src: url('H74_Ocelot_Piss/HOcelotPiss-Regular.ttf');
+   src: url('H74_Ocelot_Piss/HOcelotPiss-Regular.woff');
+   src: url('H74_Ocelot_Piss/HOcelotPiss-Regular.woff2');
+   src: url('H74_Ocelot_Piss/HOcelotPiss-Regular.svg');
+   src: url('H74_Ocelot_Piss/HOcelotPiss-Regular.eot');
+   src: url('H74_Ocelot_Piss/HOcelotPiss-Regular.otf')
+}
